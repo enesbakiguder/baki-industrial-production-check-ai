@@ -71,4 +71,4 @@ demo.py dosyasındaki QUERY_IMAGE_PATH kısmını test etmek istediğiniz resiml
 
 
 
-NOT:PROJENİN İLK HALİNİN GELİŞTİRME AŞAMASINA BAKMAK İÇİN:
+NOT:PROJENİN İLK HALİNİN GELİŞTİRME AŞAMASINA BAKMAK İÇİN: https://github.com/enesbakiguder/baki-industrial-production-check-ai/blob/main/projenin-ilk-hali.md
