@@ -65,3 +65,10 @@ Gerekli kütüphaneleri yükleyin: pip install ultralytics opencv-python numpy.
 Referans resimlerinizi reference_images klasörüne atın.
 
 demo.py dosyasındaki QUERY_IMAGE_PATH kısmını test etmek istediğiniz resimle güncelleyip çalıştırın.
+
+
+
+
+
+
+NOT:PROJENİN İLK HALİNİN GELİŞTİRME AŞAMASINA BAKMAK İÇİN:
